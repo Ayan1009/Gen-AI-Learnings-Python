@@ -1,6 +1,2 @@
-This is a new line.
-This line will overwrite the existing content.
-This line will be appended to the file.
-First line
-Second line
-Third line
+Hello World!
+Welcome to file handling in Python.
